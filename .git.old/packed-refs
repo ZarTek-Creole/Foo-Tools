@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+a2e1fb74545d9bccda3b1872a9220d4aa79b4943 refs/heads/dev
+86263b4c437411b810933087a0fd17b6bf35fb73 refs/heads/master
+14f9bba1cd743bb3efa1fddcc3b87e3bb6781e3d refs/remotes/dev/dev
+85ec11c55aeaf5545e72f620738f832f734fc386 refs/remotes/dev/mp3genre
+a2e1fb74545d9bccda3b1872a9220d4aa79b4943 refs/remotes/origin/dev
+c4c8537f30eefb7a9348cfbed15de6016b5d99c8 refs/remotes/origin/foo-2007
+5c755860a60ad4c22aa8c3f250f066c7c6f824c3 refs/remotes/origin/master
